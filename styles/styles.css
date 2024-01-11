@@ -418,6 +418,7 @@ section {
 
 .feedback {
   display: flex;
+  justify-content: center;
   gap: 3rem;
 }
 
