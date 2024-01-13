@@ -5,7 +5,6 @@ init: function () {
     app.handleThemeToggle();
     app.initLocalStorage();
     app.saveToLocalStorage();
-    app.HandleZoomImage();
 },
 
 /**
