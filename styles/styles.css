@@ -513,6 +513,7 @@ section {
 .portfolio-item:hover .hover-items {
   opacity: 0.9;
   transform: scale(1);
+  text-align: center;
 }
 
 /* contact */
